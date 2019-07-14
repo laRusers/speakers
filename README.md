@@ -1,4 +1,4 @@
-# Speaker instructions
+# Speaker guidelines
 
 Thank you for speaking at the Los Angeles R User Group!
 
