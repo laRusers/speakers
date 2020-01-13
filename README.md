@@ -19,4 +19,5 @@ Thank you for speaking at the Los Angeles R User Group!
 * Please provide materials from your talk, such as slides. You may email us (larusers[at] gmail [dot] com) or open a pull request at [laRusers/presentations](https://github.com/laRusers/presentations).
 
 ## Additional details:
+* If you are looking for resources on how to give good tech talks, we recommend [Notes on preparing a tech talk](https://emilyriederer.netlify.com/post/writing-a-tech-talk/) by [Emily Riederer](https://emilyriederer.netlify.com/), particularly if you are newer to speaking.
 * We are happy to give feedback on slides or content. Just let us know!
